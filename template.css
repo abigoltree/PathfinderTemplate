@@ -1,0 +1,16 @@
+#header {
+    color: rgba(0,255,0,1);
+    background-color: black;
+    list-style-type: none;
+    display: inline-block;
+}
+
+li{
+    display: inline;
+    width: 10%;
+}
+
+a{
+    color: white;
+    
+}
